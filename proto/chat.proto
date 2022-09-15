@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+
+package user;
+
+
+option go_package = "/protocol_buffers";
+
+
+service ChatService{
+  
+}
